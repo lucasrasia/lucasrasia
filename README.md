@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A3F6F&height=180&section=header&text=Lucas%20Rasia%20Nogueira&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20de%20Software%20%7C%20UFG&descAlignY=58&descSize=18&descColor=a8c4e0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=280&section=header&text=Lucas%20Rasia%20Nogueira&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=🎓%20Engenharia%20de%20Software%20·%20UFG%20·%20Goiânia&descAlignY=60&descSize=20&descColor=a8c4e0&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-rasia)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasrasiadev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasrasia)
 
 </div>
 
@@ -8,7 +16,7 @@
 
 ### 👋 Olá, mundo!
 
-Sou **Lucas Rasia**, estudante de Engenharia de Software na **UFG** — o melhor curso da área no país. Tenho grande interesse por **Inteligência Artificial** e **Machine Learning**, e estou sempre buscando aprender coisas novas, especialmente quando surgem projetos desafiadores pela frente.
+Sou **Lucas Rasia**, estudante de **Engenharia de Software na UFG** — o melhor curso da área no país. Tenho grande interesse por **Inteligência Artificial** e **Machine Learning**, e estou sempre buscando aprender coisas novas, especialmente quando surgem projetos desafiadores pela frente.
 
 > *“A melhor forma de aprender é construindo.”*
 
@@ -16,26 +24,40 @@ Sou **Lucas Rasia**, estudante de Engenharia de Software na **UFG** — o melhor
 
 ### 🚀 Tecnologias & Ferramentas
 
-<div align="left">
-
 **Linguagens**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,html,css&perline=8&theme=dark" />
+</div>
+
+<br/>
 
 **Ferramentas & Plataformas**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&perline=8&theme=dark" />
+</div>
+
+<br/>
 
 **IA & Prototipagem**
 
+<div align="left">
+
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-FF4D6D?style=for-the-badge&logoColor=white)
+![Google%20Stitch](https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![21st.dev](https://img.shields.io/badge/21st.dev-000000?style=for-the-badge&logoColor=white)
+
+</div>
+
+**Metodologias**
+
+<div align="left">
+
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logoColor=white)
+![FDD](https://img.shields.io/badge/FDD-1A3F6F?style=for-the-badge&logoColor=white)
+![Cascata](https://img.shields.io/badge/Cascata-764ABC?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -54,8 +76,8 @@ Sou **Lucas Rasia**, estudante de Engenharia de Software na **UFG** — o melhor
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasrasia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2E6DA4&icon_color=2E6DA4&text_color=c9d1d9"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrasia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E6DA4&text_color=c9d1d9"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasrasia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2E6DA4&icon_color=2E6DA4&text_color=c9d1d9"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrasia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E6DA4&text_color=c9d1d9"/>
 
 </div>
 
@@ -69,19 +91,22 @@ Sou **Lucas Rasia**, estudante de Engenharia de Software na **UFG** — o melhor
 
 ### 🎯 Atualmente
 
-- 📚 Aprofundando em **Go** e **Python**
-- 🤖 Explorando **IA generativa** e suas aplicações práticas
-- 🛠️ Desenvolvendo o **Fretex** — plataforma de frete sob demanda
-- 🎓 Cursando **Engenharia de Software na UFG**
+```text
+📚  Aprofundando em Go e Python
+🤖  Explorando IA generativa e suas aplicações práticas
+🛠️  Desenvolvendo o Fretex — plataforma de frete sob demanda
+🎓  Cursando Engenharia de Software na UFG
+💡  Sempre aberto a novos projetos e colaborações
+```
 
 -----
 
-### 📬 Contato
+### 📬 Vamos conversar?
 
-<div align="left">
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-rasia)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasrasiadev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-rasia)
+[![Gmail](https://img.shields.io/badge/Manda%20um%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasrasiadev@gmail.com)
 
 </div>
 
@@ -89,6 +114,6 @@ Sou **Lucas Rasia**, estudante de Engenharia de Software na **UFG** — o melhor
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A3F6F&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=140&section=footer" />
 
 </div>
