@@ -14,7 +14,7 @@
 
 -----
 
-### 👋 Hey there!
+### 👨🏻‍💻 About me!
 
 I’m **Lucas Rasia**, a **Software Engineering student at UFG** — one of the best programs in Brazil. I have a strong interest in **Artificial Intelligence** and **Machine Learning**, and I’m always looking to learn something new, especially when challenging projects come along.
 
