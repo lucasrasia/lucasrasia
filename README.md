@@ -68,7 +68,7 @@ I’m **Lucas Rasia**, a **Software Engineering student at UFG** — one of the 
 |Project                                                                     |Description                                                                                                         |Status          |
 |----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----------------|
 |🏆 [**Missão Cidadã**](https://github.com/lucasrasia/Hackathon_GO_Uai_Tech_3)|Digital inclusion app helping women access Brazilian government services — **3rd place at GO! Uai Tech 3 Hackathon**|✅ Completed     |
-|🚛 **Fretex**                                                                |On-demand freight marketplace connecting independent truck drivers to clients                                       |🔨 In development|
+|🚛 **FreteX**                                                                |On-demand freight marketplace connecting independent truck drivers to clients                                       |🔨 In development|
 
 -----
 
