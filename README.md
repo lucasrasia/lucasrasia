@@ -14,7 +14,7 @@
 
 -----
 
-### 👋 Olá, mundo!
+### 👨🏻‍💻 Sobre mim!
 
 Sou **Lucas Rasia**, estudante de **Engenharia de Software na UFG** — o melhor curso da área no país. Tenho grande interesse por **Inteligência Artificial** e **Machine Learning**, e estou sempre buscando aprender coisas novas, especialmente quando surgem projetos desafiadores pela frente.
 
