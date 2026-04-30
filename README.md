@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=280&section=header&text=Lucas%20Rasia%20Nogueira&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Engenharia%20de%20Software%20·%20UFG%20·%20Goiânia&descAlignY=60&descSize=20&descColor=a8c4e0&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=280&section=header&text=Lucas%20Rasia%20Nogueira&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineering%20·%20UFG%20·%20Brazil&descAlignY=60&descSize=20&descColor=a8c4e0&animation=fadeIn" />
 
 </div>
 
@@ -14,17 +14,17 @@
 
 -----
 
-### 👨🏻‍💻 Sobre mim!
+### 👋 Hey there!
 
-Sou **Lucas Rasia**, estudante de **Engenharia de Software na UFG** — o melhor curso da área no país. Tenho grande interesse por **Inteligência Artificial** e **Machine Learning**, e estou sempre buscando aprender coisas novas, especialmente quando surgem projetos desafiadores pela frente.
+I’m **Lucas Rasia**, a **Software Engineering student at UFG** — one of the best programs in Brazil. I have a strong interest in **Artificial Intelligence** and **Machine Learning**, and I’m always looking to learn something new, especially when challenging projects come along.
 
-> *“A melhor forma de aprender é construindo.”*
+> *“The best way to learn is by building.”*
 
 -----
 
-### 🚀 Tecnologias & Ferramentas
+### 🚀 Technologies & Tools
 
-**Linguagens**
+**Languages**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,go,html,css&perline=8&theme=dark" />
@@ -32,7 +32,7 @@ Sou **Lucas Rasia**, estudante de **Engenharia de Software na UFG** — o melhor
 
 <br/>
 
-**Ferramentas & Plataformas**
+**Tools & Platforms**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&perline=8&theme=dark" />
@@ -40,39 +40,39 @@ Sou **Lucas Rasia**, estudante de **Engenharia de Software na UFG** — o melhor
 
 <br/>
 
-**IA & Prototipagem**
+**AI & Prototyping**
 
 <div align="left">
 
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-FF4D6D?style=for-the-badge&logoColor=white)
-![Google%20Stitch](https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Stitch](https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![21st.dev](https://img.shields.io/badge/21st.dev-000000?style=for-the-badge&logoColor=white)
 
 </div>
 
-**Metodologias**
+**Methodologies**
 
 <div align="left">
 
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logoColor=white)
 ![FDD](https://img.shields.io/badge/FDD-1A3F6F?style=for-the-badge&logoColor=white)
-![Cascata](https://img.shields.io/badge/Cascata-764ABC?style=for-the-badge&logoColor=white)
+![Waterfall](https://img.shields.io/badge/Waterfall-764ABC?style=for-the-badge&logoColor=white)
 
 </div>
 
 -----
 
-### 🏗️ Projetos em Destaque
+### 🏗️ Featured Projects
 
-|Projeto                                                                     |Descrição                                                                                                     |Status              |
-|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------|
-|🏆 [**Missão Cidadã**](https://github.com/lucasrasia/Hackathon_GO_Uai_Tech_3)|App de inclusão digital para mulheres acessarem serviços do governo — **3º lugar no Hackathon GO! Uai Tech 3**|✅ Concluído         |
-|🚛 **Fretex**                                                                |Plataforma de frete sob demanda no modelo marketplace, conectando motoristas autônomos a clientes             |🔨 Em desenvolvimento|
+|Project                                                                     |Description                                                                                                         |Status          |
+|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----------------|
+|🏆 [**Missão Cidadã**](https://github.com/lucasrasia/Hackathon_GO_Uai_Tech_3)|Digital inclusion app helping women access Brazilian government services — **3rd place at GO! Uai Tech 3 Hackathon**|✅ Completed     |
+|🚛 **Fretex**                                                                |On-demand freight marketplace connecting independent truck drivers to clients                                       |🔨 In development|
 
 -----
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -89,24 +89,24 @@ Sou **Lucas Rasia**, estudante de **Engenharia de Software na UFG** — o melhor
 
 -----
 
-### 🎯 Atualmente
+### 🎯 Currently
 
 ```text
-📚  Aprofundando em Go e Python
-🤖  Explorando IA generativa e suas aplicações práticas
-🛠️  Desenvolvendo o Fretex — plataforma de frete sob demanda
-🎓  Cursando Engenharia de Software na UFG
-💡  Sempre aberto a novos projetos e colaborações
+📚  Deepening my knowledge in Go and Python
+🤖  Exploring generative AI and its real-world applications
+🛠️  Building Fretex — an on-demand freight platform
+🎓  Studying Software Engineering at UFG
+💡  Always open to new projects and collaborations
 ```
 
 -----
 
-### 📬 Vamos conversar?
+### 📬 Let’s connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-rasia)
-[![Gmail](https://img.shields.io/badge/Manda%20um%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasrasiadev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Reach%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-rasia)
+[![Gmail](https://img.shields.io/badge/Send%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasrasiadev@gmail.com)
 
 </div>
 
