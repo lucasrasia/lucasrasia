@@ -4,7 +4,7 @@
 
 **Software Engineering student at UFG · Python & Go · Machine Learning & AI Agents**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rasia/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rasia-8745613b5?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasrasiadev@gmail.com)
 
 </div>
