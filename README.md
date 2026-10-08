@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2E6DA4&height=220&section=header&text=Lucas%20Rasia&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%20Machine%20Learning%20%C2%B7%20AI%20Agents&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Lucas Rasia" />
 
-**Software Engineering student at UFG · Python & Go · Machine Learning & AI Agents**
+**Software Engineering student at UFG · Python & Go · ML & AI Engineer · Computer Vision · DevOps & MLOps**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rasia-8745613b5?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasrasiadev@gmail.com)
