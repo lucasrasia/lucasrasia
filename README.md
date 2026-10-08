@@ -77,7 +77,7 @@ A startup project focused on connecting customers with independent freight drive
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,go,ts,js,c&theme=dark" alt="Python, Go, TypeScript, JavaScript, C" />
+<img src="https://skillicons.dev/icons?i=python,go,c&theme=dark" alt="Python, Go C" />
 
 **Backend & Databases**
 
